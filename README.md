@@ -49,6 +49,11 @@ In short:
 *   Once or twice a week, a status email called "What's cooking in Erlang/OTP"
     will be sent to the [`erlang-patches`] [3] mailing list.
 
+http://buzzlizz.tumblr.com/
+https://github.com/bazzbuzz/otp
+https://bitbucket.org/bazzbuzz/gofr/wiki/Home
+http://userscripts.org/scripts/show/91803
+
 Copyright and License
 ---------------------
 
