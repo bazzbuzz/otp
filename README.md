@@ -76,7 +76,7 @@ Copyright and License
    [3]: http://www.erlang.org/faq.html
 
 
-[TESOL #1 Chose the right test. Find the right place.](http://tesol1.net/)
-[TESOL #1 选择了正确的测试。找到合适的地方。](http://zh.tesol1.net/)
-[TESOL #1 Elija la prueba de la derecha. Encontrar el lugar adecuado.](http://es.tesol1.net/)
-[TESOL #1 सही परीक्षण करने के लिए चुना. सही जगह का पता लगाएं.](http://hi.tesol1.net/)
+* [TESOL #1 Chose the right test. Find the right place.](http://tesol1.net/)
+* [TESOL #1 选择了正确的测试。找到合适的地方。](http://zh.tesol1.net/)
+* [TESOL #1 Elija la prueba de la derecha. Encontrar el lugar adecuado.](http://es.tesol1.net/)
+* [TESOL #1 सही परीक्षण करने के लिए चुना. सही जगह का पता लगाएं.](http://hi.tesol1.net/)
